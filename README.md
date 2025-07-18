@@ -16,3 +16,6 @@
 ## https://rebeccacho.gitbooks.io/java-study-group/content/chapter2.html
 
 "자바 바이블"
+
+## https://blog.wonkooklee.com/playground/thumbnail-maker/
+"벨로그 썸네일 메이커"
